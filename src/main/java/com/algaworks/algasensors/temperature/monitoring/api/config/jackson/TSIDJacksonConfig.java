@@ -1,6 +1,5 @@
 package com.algaworks.algasensors.temperature.monitoring.api.config.jackson;
 
-import com.algaworks.algasensors.device.management.api.config.jackson.TSIDToStringSerializer;
 import com.fasterxml.jackson.databind.Module;
 import com.fasterxml.jackson.databind.module.SimpleModule;
 import io.hypersistence.tsid.TSID;
