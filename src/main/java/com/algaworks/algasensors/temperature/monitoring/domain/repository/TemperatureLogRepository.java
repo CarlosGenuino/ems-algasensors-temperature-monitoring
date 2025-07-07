@@ -1,6 +1,5 @@
 package com.algaworks.algasensors.temperature.monitoring.domain.repository;
 
-import com.algaworks.algasensors.temperature.monitoring.api.model.TemperatureLogOutput;
 import com.algaworks.algasensors.temperature.monitoring.domain.model.SensorId;
 import com.algaworks.algasensors.temperature.monitoring.domain.model.TemperatureLog;
 import com.algaworks.algasensors.temperature.monitoring.domain.model.TemperatureLogId;
